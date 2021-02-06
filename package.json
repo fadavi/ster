@@ -1,0 +1,32 @@
+{
+  "name": "ster",
+  "version": "1.0.0",
+  "description": "Minimal RETS client",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadavi/ster.git"
+  },
+  "keywords": [
+    "properties",
+    "real",
+    "estate",
+    "rets",
+    "house",
+    "apartment",
+    "api",
+    "query",
+    "find",
+    "agent",
+    "mls"
+  ],
+  "author": "Mohamad Fadavi <fadavi.mohamad@gmail.com> (https://mfadavi.ir)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fadavi/ster/issues"
+  },
+  "homepage": "https://github.com/fadavi/ster#readme"
+}
